@@ -336,7 +336,7 @@ footer{
   background-color: black;
 }
 
-form{
+.newsletter-form{
   height: 80px;
   background-color: gold;
   p{

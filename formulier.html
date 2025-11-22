@@ -7,25 +7,61 @@
     <link rel="stylesheet" href="https://yassineak1.github.io/look-and-feel-styleguide/styleguide-milledoni.css" />
     <link rel="stylesheet" href="styles/index.css">
 </head>
+
 <body>
+    <header>
+        <a href="index.html"> 
+        <img src="assets/logo-klein-small.png" alt="logo-milledoni-small" class="img-logo-small">
+        </a>
+         <!-- <button class="button-list"><img src="assets/Frame 427318929.png" alt="icon-list"></button>  -->
+         <div class="div-buttons"> 
+            <a href="index.html" class="button-list img-style">
+                <img src="assets/create-list-small.png" alt="icon-list" class="create-small">
+            </a>
+            <a href="index.html" class="button-profile img-style">
+                <img src="assets/profile-small.png" alt="icon-profile" class="icon-profile-small">
+            </button>   
+            </a>
+        </div>
+    </header>
+    <main>
+        <a href="#" class="button-back"><img src="assets/button-back.png" alt="go back icon"></a>
 
-    <h2>Contactformulier</h2>
+        <div class="form-section">
 
-    <form class="contact-formulier" action ="#" method="post">
-        <label for="naam">Naam:</label>
-        <input type="text" id="naam" name="naam" required>
+            <div class="profile-pic-container">
+                <img src="assets/profile-picture.png" alt="Profile picture" class="profile-pic"/>
+                <button class="edit-icon">
+                <img src="assets/edit-icon.png">
+                </button>
+            </div>
 
-        <label for="email">E-mail:</label>
-        <input type="email" id="email" name="email" required>
+            <form>
+                <label class="form-group">
+                    Display
+                    <input type="text" placeholder="Name" value="" />
+                </label>
 
-        <label for="onderwerp">Onderwerp:</label>
-        <input type="text" id="onderwerp" name="onderwerp" required>
+                <label class="form-group">
+                    Email
+                    <input type="email" placeholder="E-mail" value="" />
+                </label>
 
-        <label for="beschrijving">Beschrijving:</label>
-        <textarea id="beschrijving" name="beschrijving" rows="5" required></textarea>
+                <label class="form-group">
+                    Birthday
+                    <input type="text" placeholder="DD/MM/JJJJ" />
+                </label>
 
-        <button type="submit">Versturen</button>
-    </form>
+                <label class="form-group">
+                    Country
+                    <input type="text" placeholder="Country" value="" />
+                </label>
+
+                <button type="submit" class="save-button">Save</button>
+            </form>
+        </div>
+    </main>
+    
     
 </body>
 </html>

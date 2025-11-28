@@ -43,7 +43,7 @@ CSS voor het implementeren van de stijlregels in de website:
 
 HTML om de gestileerde componenten correct te structureren:
   
-- Semantische structuur met correcte headings en secties (<section>, <main>).
+- Semantische structuur met correcte headings (h1 t/m h3) en secties (section, main).
 
 - Klassen toegevoegd aan componenten zoals knoppen, formulieren en profielen om consistent styling toe te passen.
 

@@ -18,6 +18,7 @@ Ik heb gewerkt aan het toepassen van de huisstijl van de opdrachtgever en het on
 Ik heb samen met mijn team een centrale styleguide opgezet in Figma en vertaald naar een gedeelde CSS-stylesheet die in de website en formulier-pagina wordt gebruikt. Hierdoor kan ik en anderen binnen het project consistente stijlen toepassen en hergebruiken.
 
 Screenshot home en formulier pagina: 
+
 <img width="402" height="752" alt="ss readme home-pagina" src="https://github.com/user-attachments/assets/a56cc402-e4d7-4bd3-9589-94340b8c1f31" />
 
 <img width="477" height="745" alt="ss readme formulier-pagina" src="https://github.com/user-attachments/assets/f58c7ec7-368e-44f7-b86c-f057ec4598c7" />

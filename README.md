@@ -29,11 +29,25 @@ Screenshot home en formulier pagina:
 
 Voor het ontwerpen en toepassen van de huisstijl heb ik gebruikgemaakt van:
 
-- Figma voor het visualiseren van de stijlregels en componenten.
+Figma voor het visualiseren van de stijlregels en componenten.
 
-- CSS voor het implementeren van de stijlregels in de website.
+CSS voor het implementeren van de stijlregels in de website:
 
-- HTML om de gestileerde componenten correct te structureren.
+- Centrale styleguide geïmplementeerd in één stylesheet.
+
+- Consistente kleuren, lettertypes, spacing en componentstijlen zoals knoppen, inputs en afbeeldingen.
+
+- CSS-classes herbruikbaar gemaakt voor meerdere pagina’s.
+
+- Responsive design toegepast met flexbox en grid waar nodig.
+
+HTML om de gestileerde componenten correct te structureren:
+  
+- Semantische structuur met correcte headings (<h1> t/m <h3>) en secties (<section>, <main>).
+
+- Klassen toegevoegd aan componenten zoals knoppen, formulieren en profielen om consistent styling toe te passen.
+
+- Labels en placeholders gebruikt voor formulieren zodat ze overzichtelijk en gebruiksvriendelijk zijn.
 
 Ik heb gelet op consistente kleuren, lettertypes, spacing en componenten zoals knoppen en formulieren. Door het gebruik van een centrale styleguide blijft het ontwerp uniform en overzichtelijk, ook bij toekomstige uitbreidingen van de website.
 
